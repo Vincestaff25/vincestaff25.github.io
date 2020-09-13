@@ -10,9 +10,9 @@ I'm a geek at heart so I love anything that involves technology, video games or 
 
 Here is a list of some of my projects so you can get an idea of what kind of work I do:
 
-[Advance CSS](url)
-[Media Queries](url)
-[CSS Grid Systems](url)
-[Flexbox](url)
-[Bootstrap](url)
-[Professional Development](url)
+- [Advance CSS](url)
+- [Media Queries](url)
+- [CSS Grid Systems](url)
+- [Flexbox](url)
+- [Bootstrap](url)
+- [Professional Development](url)
